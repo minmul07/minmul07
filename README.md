@@ -5,3 +5,4 @@
 - [KW Pass for Wear OS](https://github.com/kw-service/kw-pass-wearos): Wear OS를 지원하는 광운대학교 도서관 출입증 어플리케이션 (2025.11 ~ 2026.05)
 - [Filmo](https://github.com/minmul07/filmo): 10th NE(O)RDINARY HACKATHON 우수상, 독립영화의 모든 순간을 기록하는 서비스 (2026.05)
 - [RECAP](https://github.com/Central-MakeUs/recap-android): 스크린샷 재정리 서비스 (2026.06 ~ )
+- [Memoir](https://github.com/minmul07/Memoir): 온디바이스 LLM 기반 지식 데이터베이스 (2026.09 ~ )
