@@ -1,5 +1,4 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minmul)](https://solved.ac/minmul/) </br>
-플레가 눈앞이었는데.. 😢
 
 ## Projects
 - [KW Pass for Wear OS](https://github.com/kw-service/kw-pass-wearos): Wear OS를 지원하는 광운대학교 도서관 출입증 어플리케이션 (2025.11 ~ 2026.05)
